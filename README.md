@@ -1,5 +1,5 @@
 # DSA-Algo
 DSA algorithms
-Adding new fuctionality to solve a rat and maze problem so as to increase our knowledge.
-
+Adding new fuctionality to solve a rat and maze problem so as to increase our knowledge...
+   Rat and Maze is the basic algorithm..
 
